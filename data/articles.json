@@ -1,0 +1,24 @@
+[
+  {
+    "id": "intro-ui-ux",
+    "title": "Introduction to UI/UX Design for Informatics Students",
+    "slug": "introduction-to-ui-ux-design-for-informatics-students",
+    "excerpt": "Why Informatics students should master the basics of User Interface and User Experience design, and how to start using Figma for layout design.",
+    "content": "As Informatics Engineering students, we are often trained to focus heavily on the logic, algorithm, and back-end structure of software applications. However, a system is only as good as its usability. This is where UI/UX design becomes essential.\n\n### Why UI/UX Matters\nUI (User Interface) refers to the visual look and feel of an application—its buttons, text, images, text fields, and transitions. UX (User Experience) represents the overall feeling that a user gets when interacting with the application. If the interface is confusing or sluggish, the user will quickly abandon the software, regardless of how efficient the underlying code is.\n\n### 3 Core Pillars for Beginners\n1. **Consistency**: Use a cohesive color palette and a consistent typographic hierarchy throughout your design. This makes the interface feel unified.\n2. **Visual Hierarchy**: Guide the user's eye to the most important elements (like Call-To-Action buttons) using size, weight, and contrast.\n3. **Feedback**: Always provide visual feedback for user actions (e.g., hover states on buttons, loading indicators, and toast messages).\n\n### Figma as Your Starting Tool\nFigma is an excellent browser-based design tool. To start:\n- Create a simple frame matching your target screen size.\n- Lay out basic shapes (rectangles, text elements) to represent components.\n- Use components and autolayouts to keep the alignment perfect. \n\nBy taking a user-centered design approach, you will build applications that are not only high-performing but also highly engaging.",
+    "date": "2026-06-15",
+    "tags": ["UI/UX", "Figma", "Design Basics"],
+    "coverImage": "",
+    "readTime": "4 min read"
+  },
+  {
+    "id": "responsive-design-2026",
+    "title": "Modern Layouts and Responsive Web Design in 2026",
+    "slug": "modern-layouts-and-responsive-web-design-in-2026",
+    "excerpt": "An in-depth look into modern responsive CSS layout strategies like CSS Grid, Flexbox, and fluid typography without relying heavily on frameworks.",
+    "content": "Designing websites that look pristine on a 4K desktop monitor as well as a compact mobile screen is a standard requirement. In 2026, responsive design is moving beyond simple media queries toward fluid, container-relative layouts.\n\n### Moving Beyond Standard Media Queries\nWhile `@media` queries are still useful, they can lead to abrupt screen jumps. Modern layouts leverage built-in responsive sizing functions:\n- **`clamp()`**: Fluid typography and spacing using `font-size: clamp(1rem, 2.5vw, 3rem)`. This scales typography smoothly from a minimum to a maximum bound based on viewport width.\n- **CSS Grid Auto-Fit**: Construct flexible grids that automatically warp to wrap columns without writing media queries: `grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))`;\n- **Aspect Ratio**: The CSS property `aspect-ratio: 16 / 9` prevents layout shifts when images or videos load.\n\n### Emphasizing Glassmorphism and Micro-Animations\nPremium layouts in 2026 use glassmorphism elements (`backdrop-filter: blur(12px)`) combined with soft radial gradients as background highlights. Subtle transitions on hover (like `transform: translateY(-4px)`) provide tactile feedback that increases visitor satisfaction.\n\nBy focusing on standard web technologies like native CSS, you reduce bundle size and deliver lightning-fast loading speeds on mobile networks.",
+    "date": "2026-06-20",
+    "tags": ["CSS", "Web Development", "Responsive Layout"],
+    "coverImage": "",
+    "readTime": "5 min read"
+  }
+]

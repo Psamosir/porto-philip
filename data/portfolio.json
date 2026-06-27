@@ -1,0 +1,149 @@
+{
+  "bio": {
+    "name": "Philip Damian Samosir",
+    "title": "UI/UX Designer & Frontend Developer",
+    "avatar": "/uploads/1782574012696-foto_almet_pilip.jpeg",
+    "about": "Informatics Engineering student with a strong interest in UI/UX Design, digital product development, and user-centered interface design. Experienced in creating web-based academic projects and designing modern user interfaces using design tools such as Figma, Canva and Visual Studio Code."
+  },
+  "contact": {
+    "phone": "082285137693",
+    "email": "philipsamosir3@gmail.com",
+    "location": "Batam, Kepulauan Riau, Indonesia",
+    "linkedin": "https://linkedin.com/in/philip-damian-samosir",
+    "github": "https://github.com/philipsamosir",
+    "instagram": "https://instagram.com/philip_d_s",
+    "whatsapp": "https://wa.me/6282285137693"
+  },
+  "skills": [
+    {
+      "name": "UI/UX Design",
+      "category": "Design",
+      "level": 90
+    },
+    {
+      "name": "Figma",
+      "category": "Tools",
+      "level": 95
+    },
+    {
+      "name": "Wireframing & Prototyping",
+      "category": "Design",
+      "level": 85
+    },
+    {
+      "name": "HTML & CSS",
+      "category": "Frontend",
+      "level": 80
+    },
+    {
+      "name": "JavaScript & React",
+      "category": "Frontend",
+      "level": 70
+    },
+    {
+      "name": "Visual Studio Code",
+      "category": "Tools",
+      "level": 90
+    }
+  ],
+  "experience": [
+    {
+      "company": "Diskominfo (Internship)",
+      "role": "UI/UX Designer & Quality Assurance",
+      "period": "2025",
+      "description": [
+        "Assessed and improved the visuals of websites created by Diskominfo.",
+        "Participated in creating the Bakesbangpol website, focusing on the UI/UX layout and user experience flows."
+      ]
+    },
+    {
+      "company": "Penyengat Island Tourism Website",
+      "role": "UI/UX & Web Layout Designer",
+      "period": "2025",
+      "description": [
+        "Created modern tourism website layouts with responsive and immersive design concepts.",
+        "Engineered smooth navigation patterns for visitors exploring historical island landmarks."
+      ]
+    },
+    {
+      "company": "Distributed Communication Website",
+      "role": "UI/UX Designer",
+      "period": "2024 - 2025",
+      "description": [
+        "Designed interface concepts and improved website usability for distributed nodes representation.",
+        "Iterated wireframes based on feedback to streamline developer-to-client interface workflows."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitas Maritim Raja Ali Haji",
+      "degree": "S1 Informatics Engineering",
+      "period": "2023 - Present",
+      "details": "Focusing on Software Engineering, Human-Computer Interaction, and UI/UX design methodologies. Actively engaged in academic project builds."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Diskominfo Internship Certificate",
+      "date": "2025",
+      "description": "Awarded for outstanding contribution to the visual layout design and quality testing of multiple regional public agency web applications."
+    },
+    {
+      "title": "Distributed Communication Project Lead",
+      "date": "2024",
+      "description": "Led a small team to build and design a visual node monitoring platform for the Distributed Systems class."
+    }
+  ],
+  "languages": [
+    {
+      "name": "Bahasa Indonesia",
+      "level": 100
+    },
+    {
+      "name": "Bahasa Inggris",
+      "level": 80
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Penyengat Island Tourism Web Layout",
+      "description": "A modern and responsive web layout showcasing the historical and cultural tourist attractions of Penyengat Island. Designed to offer tourists a seamless mobile and desktop browsing experience.",
+      "image": "/uploads/1782577603663-penyengat.jpeg",
+      "tags": [
+        "Figma",
+        "Web Design",
+        "Responsive Layout"
+      ],
+      "demoUrl": "https://figma.com",
+      "githubUrl": ""
+    },
+    {
+      "id": "project-2",
+      "title": "Bakesbangpol Web Portal",
+      "description": "Collaborated with Diskominfo to design the visual aesthetics and user experience architecture for the Bakesbangpol website, ensuring accessible government public services.",
+      "image": "/uploads/1782577616124-bakesbangpol.jpeg",
+      "tags": [
+        "Figma",
+        "UI/UX Design",
+        "Wireframing"
+      ],
+      "demoUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "id": "project-3",
+      "title": "Distributed Node Communication UI",
+      "description": "A dashboard designed to visualize server nodes and network traffic routing in real-time, focusing on clean information density and ease of network diagnostics.",
+      "image": "",
+      "tags": [
+        "HTML/CSS",
+        "UI/UX",
+        "Dashboard"
+      ],
+      "demoUrl": "https://github.com",
+      "githubUrl": "https://github.com"
+    }
+  ]
+}
